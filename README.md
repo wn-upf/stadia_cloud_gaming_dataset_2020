@@ -2,14 +2,14 @@
 Stadia cloud gaming dataset
 
 
-Structure for folders {V.A-VIII.A}:
+Structure for folders {D1-D6}:
 
 Arrival time (epoch) || Inter-arrival time (s) || UDP frame length (bytes)
 
-For Folder {VIII.B}:
+For Folder {D7}:
 
 Video Frame Height || Frames Per Second || Round Trip Time (s) || Packets lost
 
-For Folder{IX}:
+For Folder{D8}:
 
 Round Trip Time (s) || Jitter Buffer Delay (ms)
