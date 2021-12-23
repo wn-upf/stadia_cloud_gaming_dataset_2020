@@ -13,3 +13,7 @@ Video Frame Height || Frames Per Second || Round Trip Time (s) || Packets lost
 For Folder{D8}:
 
 Round Trip Time (s) || Jitter Buffer Delay (ms)
+
+For Folder{D9}:
+
+Round Trip Time (s) || Frame Height || RTCP uplink (bps) || RTP downlink (bps)
